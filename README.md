@@ -1,6 +1,7 @@
 ### Hi there 👋
 <div style="display: inline_block"><br>
   <a href="https://github.com/amkall">
+    <img align="center" alt="bruno-py" height="30" width="40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
   <img align="center" alt="bruno-py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="bruno-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="bruno-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
